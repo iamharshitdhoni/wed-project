@@ -1,1 +1,1 @@
-# wed-project
+# web-project
